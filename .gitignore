@@ -2,3 +2,5 @@
 /sahibinden-backend/target/
 /sahibinden-common/target/
 /sahibinden-tests/target/
+/.idea/
+/*.iml/
