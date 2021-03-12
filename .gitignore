@@ -1,0 +1,4 @@
+# Project exclude paths
+/sahibinden-backend/target/
+/sahibinden-common/target/
+/sahibinden-tests/target/
